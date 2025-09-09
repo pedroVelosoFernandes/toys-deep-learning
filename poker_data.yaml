@@ -1,0 +1,8 @@
+
+path: C:\UFCG\poker\implementacao_artificial  # Caminho absoluto para o dataset
+train: dataset/train/images  # Diretório de imagens de treino
+val: dataset/val/images    # Diretório de imagens de validação
+
+# Classes
+nc: 52  # Número de classes
+names: ['10_Clubs', '10_Diamonds', '10_Hearts', '10_Spades', '2_Clubs', '2_Diamonds', '2_Hearts', '2_Spades', '3_Clubs', '3_Diamonds', '3_Hearts', '3_Spades', '4_Clubs', '4_Diamonds', '4_Hearts', '4_Spades', '5_Clubs', '5_Diamonds', '5_Hearts', '5_Spades', '6_Clubs', '6_Diamonds', '6_Hearts', '6_Spades', '7_Clubs', '7_Diamonds', '7_Hearts', '7_Spades', '8_Clubs', '8_Diamonds', '8_Hearts', '8_Spades', '9_Clubs', '9_Diamonds', '9_Hearts', '9_Spades', 'A_Clubs', 'A_Diamonds', 'A_Hearts', 'A_Spades', 'J_Clubs', 'J_Diamonds', 'J_Hearts', 'J_Spades', 'K_Clubs', 'K_Diamonds', 'K_Hearts', 'K_Spades', 'Q_Clubs', 'Q_Diamonds', 'Q_Hearts', 'Q_Spades']  # Nomes das classes
